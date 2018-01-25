@@ -7,4 +7,4 @@ My name is Amber and I like to watch movies.
 How about you?
 
 Do you like sports?
-I like swimming and playing basketballs.
+I like swimming and playing basketball.
